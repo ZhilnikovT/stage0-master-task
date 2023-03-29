@@ -10,7 +10,7 @@ public class Pyramid {
                     if(y >= x) {     
                         System.out.print(x);
                     }else{
-                        System.out.print(" ");
+                        //System.out.print(" ");
                     }
                 }else{
                     if(-y < x) {     
